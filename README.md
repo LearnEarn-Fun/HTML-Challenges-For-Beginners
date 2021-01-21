@@ -7,5 +7,4 @@ There are solutions for each of the challenge in the solutions folder of the res
 
 Enjoy pratcicing these HTML challenges and improve your HTML skills
 
-# © Learn Earn & Fun 
-# 2020-2021
+# © Learn Earn & Fun 2020-2021
