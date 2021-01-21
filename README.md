@@ -11,4 +11,4 @@ If you want to practice and master JS, then see my other repository of JS-Challe
 
 Enjoy pratcicing these HTML challenges and improve your HTML skills
 
-© Hridaya Agrawal
+© Learn Earn & Fun 2020-2021
