@@ -1,5 +1,5 @@
 ![HTML Challenges](https://cdn.lynda.com/course/170427/170427-637363828865101045-16x9.jpg)
-# HTML-Challenges
+# HTML Challenges for Beginners
 These are some HTML challenges that can help you to move and practice all about HTML.
 
 You can practice these HTML challenges and practice your HTML skills.
