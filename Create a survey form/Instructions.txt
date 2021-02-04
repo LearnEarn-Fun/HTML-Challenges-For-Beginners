@@ -1,2 +1,0 @@
-Make the Survey form by the example given.
-You can use the same css provided in the example( If you don't know CSS)
