@@ -1,5 +1,5 @@
 # 🎯💻HTML Challenges for Beginners🏆🏅
-This repository contains HTML Challenges for Beginners & a Wiki that has complete tutorial for HTML Beginners <br><br>
+This repository contains Beginner HTML Challenges & a Wiki that has complete tutorial for HTML Beginners <br><br>
  ![GitHub forks](https://img.shields.io/github/forks/LearnEarn-Fun/HTML-Challenges-For-Beginners?style=for-the-badge)
  ![GitHub Repo stars](https://img.shields.io/github/stars/LearnEarn-Fun/HTML-Challenges-For-Beginners?style=for-the-badge)
  [![Watchers](https://img.shields.io/github/watchers/LearnEarn-Fun/HTML-Challenges-For-Beginners?style=for-the-badge)](https://github.com/LearnEarn-Fun/HTML-Challenges-For-Beginners/watchers)
