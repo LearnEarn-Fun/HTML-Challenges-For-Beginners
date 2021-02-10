@@ -27,4 +27,4 @@ Head over to <a href="https://github.com/LearnEarn-Fun/HTML-Challenges-For-Begin
 
 
 ## LICENSE
-This Repository follows the [GNU GENERAL PUBLIC LICENSE](https://github.com/LearnEarn-Fun/HTML-Challenges-For-Beginners/blob/main/LICENSE).
+This Repository follows the [GNU General Public License](https://github.com/LearnEarn-Fun/HTML-Challenges-For-Beginners/blob/main/LICENSE).
