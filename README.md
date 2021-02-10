@@ -19,6 +19,13 @@ This repository contains HTML Challenges for Beginners & a Wiki that has complet
 
 Head over to <a href="https://github.com/LearnEarn-Fun/HTML-Challenges-For-Beginners/blob/main/.github/Contributing.md">Contributing Guidelines</a> to know more!
 
+## Intermediate & Advanced HTML Challenges:
+
+If you would like to continue with advanced levels of the HTML Challenges, then you could practice them.
+
+[Intermediate HTML Challenges](https://github.com/LearnEarn-Fun/HTML-Challenges-Intermediate)
+[Advanced HTML Challenges](https://github.com/LearnEarn-Fun/HTML-Challenges-Advanced)
+
 ## ❤️ Project Admin
 
 |                                     <a href="https://github.com/LearnEarn-Fun"><img src="https://avatars.githubusercontent.com/u/66988598?s=400&u=cea2effa83b4b145d26b117a4dc7dec028a9b3ca&v=4"/></a>                                      |
