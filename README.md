@@ -4,7 +4,7 @@ This repository contains HTML Challenges for Beginners & a Wiki that has complet
  ![GitHub Repo stars](https://img.shields.io/github/stars/LearnEarn-Fun/HTML-Challenges-For-Beginners?style=for-the-badge)
  [![Watchers](https://img.shields.io/github/watchers/LearnEarn-Fun/HTML-Challenges-For-Beginners?style=for-the-badge)](https://github.com/LearnEarn-Fun/HTML-Challenges-For-Beginners/watchers)
  <br><br>
-![HTML-Beginners-Challenge](https://socialify.git.ci/LearnEarn-Fun/HTML-Challenges-For-Beginners/image?description=1&descriptionEditable=Practice%20these%20Beginner%20HTML%20Challenges%20by%20this%20repository%2C%20by%20forking%20it%20into%20your%20GitHub%20account%2C%20and%20start%20programming!&font=KoHo&forks=1&issues=1&language=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Dark)
+![HTML-Challenges-For-Beginners](https://socialify.git.ci/LearnEarn-Fun/HTML-Challenges-For-Beginners/image?description=1&font=KoHo&forks=1&issues=1&language=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Dark)
 
 
 ## Challenges:
