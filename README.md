@@ -24,6 +24,7 @@ Head over to <a href="https://github.com/LearnEarn-Fun/HTML-Challenges-For-Begin
 If you would like to continue with advanced levels of the HTML Challenges, then you could practice them.
 
 [Intermediate HTML Challenges](https://github.com/LearnEarn-Fun/HTML-Challenges-Intermediate)
+
 [Advanced HTML Challenges](https://github.com/LearnEarn-Fun/HTML-Challenges-Advanced)
 
 ## ❤️ Project Admin
