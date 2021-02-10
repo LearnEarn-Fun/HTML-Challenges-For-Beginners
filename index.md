@@ -37,4 +37,4 @@ If you would like to continue with advanced levels of the HTML Challenges, then 
 
 
 ## LICENSE
-This Repository follows the [GNU General Public License](https://github.com/LearnEarn-Fun/HTML-Challenges-For-Beginners/blob/main/LICENSE).
+This repository follows the [GNU General Public License](https://github.com/LearnEarn-Fun/HTML-Challenges-For-Beginners/blob/main/LICENSE).
