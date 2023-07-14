@@ -12,6 +12,7 @@ This repository contains Beginner HTML Challenges & a Wiki that has complete tut
  <li><a href="https://github.com/LearnEarn-Fun/HTML-Challenges-For-Beginners/tree/main/Add%20some%20text">Add some text</a></li>
  <li><a href="https://github.com/LearnEarn-Fun/HTML-Challenges-For-Beginners/tree/main/Fun%20with%20Lists">Fun with Lists</a></li>
  <li><a href="https://github.com/LearnEarn-Fun/HTML-Challenges-For-Beginners/tree/main/Fun%20with%20links">Fun with Links</a></li>
+ <li>This is my first added feature</li>
 </ol>
 
 ## Want to Contribute to this repository?
